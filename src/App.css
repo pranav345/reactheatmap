@@ -1,0 +1,18 @@
+table{
+  border: 1px solid black;
+  width:100%;
+}
+th,td{
+  border: 1px solid black;
+}
+tr{
+  border: 1px solid black;
+}
+
+*{
+  text-align: center;
+  background-color: white;
+}
+.topdiv{
+  padding:20px;
+}
