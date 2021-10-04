@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import Table from './Component/Table'
+import Main from './Component/MAIN'
 
 
 function App() {
 
   return (
     <div className="App">  
-    <Table/>
+    <Main/>
     </div>
   );
 }
