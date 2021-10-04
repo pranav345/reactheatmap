@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactheapmap/static/css/main.5a73b0c1.chunk.css",
+    "main.js": "/reactheapmap/static/js/main.353da566.chunk.js",
+    "main.js.map": "/reactheapmap/static/js/main.353da566.chunk.js.map",
+    "runtime-main.js": "/reactheapmap/static/js/runtime-main.589a3d65.js",
+    "runtime-main.js.map": "/reactheapmap/static/js/runtime-main.589a3d65.js.map",
+    "static/js/2.40014a60.chunk.js": "/reactheapmap/static/js/2.40014a60.chunk.js",
+    "static/js/2.40014a60.chunk.js.map": "/reactheapmap/static/js/2.40014a60.chunk.js.map",
+    "static/js/3.5ce8074a.chunk.js": "/reactheapmap/static/js/3.5ce8074a.chunk.js",
+    "static/js/3.5ce8074a.chunk.js.map": "/reactheapmap/static/js/3.5ce8074a.chunk.js.map",
+    "index.html": "/reactheapmap/index.html",
+    "static/css/main.5a73b0c1.chunk.css.map": "/reactheapmap/static/css/main.5a73b0c1.chunk.css.map",
+    "static/js/2.40014a60.chunk.js.LICENSE.txt": "/reactheapmap/static/js/2.40014a60.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactheapmap/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.589a3d65.js",
+    "static/js/2.40014a60.chunk.js",
+    "static/css/main.5a73b0c1.chunk.css",
+    "static/js/main.353da566.chunk.js"
+  ]
+}
